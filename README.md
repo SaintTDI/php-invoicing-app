@@ -8,7 +8,7 @@ Web Repository built using PHP <b>Zend Framework / Smarty / JS / ChartJS</b>
 
 2) Database (mySQL) structure
 
-3) Simple UI builted using Vanila JS and CSS.
+3) Simple UI built using VanilaJS and CSS.
 
 ## Features:
 
