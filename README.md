@@ -1,6 +1,6 @@
 # Invoice Billing and Complete Admin for Small Businesses
 
-Web Repository built using <b>PHP Zend Framework / Smarty / JS/ ChartJS</b>.
+Web Repository built using PHP <b>Zend Framework / Smarty / JS / ChartJS</b>
 
 ## This Application includes:
 
